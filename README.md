@@ -1,2 +1,2 @@
 # Breakout Game
-The source code of a simplified Breakout game.
+The source code for a simplified Breakout game written in Java.
