@@ -3,7 +3,7 @@ The project involved taking over from another programmer to complete the build o
 
 The game needed to be a simplified graphical version of the <a href="https://www.crazygames.com/game/atari-breakout" target="_blank" title="View the Atari game">Atari game</a> developed in 1976 with a simplified square grid. Breakout involves a player moving a paddle horizontally to bounce a ball toward a grid of bricks. When the ball hits a brick, it breaks the brick out of the grid and the brick disappears. The player wins when all the bricks have been broken out of the grid or lose when the ball falls past the paddle three times. For this project, the ball needed to bounce off the paddle and break the bricks, the player needed to move the paddle left and right within the bounds of the screen and win or lose the game.
 
-The project was completed within 2 weeks for 1 assessment whilst completing the Programming I course at Open Polytechnic NZ as part of the Web Development and Design diploma. The game was built with Java code and comments that explain the approach taken and what the code does was added.
+The project was completed within 1 week for 1 assessment whilst completing the Programming I course at Open Polytechnic NZ as part of the Web Development and Design diploma. The game was built with Java code and comments that explain the approach taken and what the code does was added.
 
 # Improvements / Enhancements
 The game could be enhanced with an attractive GUI and more features from the Atari game.
